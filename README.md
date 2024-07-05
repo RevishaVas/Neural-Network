@@ -1,5 +1,5 @@
 # Neural-Network
-#Simple neural Network using Python and TensorFlow/Keras framework
+Simple neural Network using Python and TensorFlow/Keras framework
 
 Explanation
 
